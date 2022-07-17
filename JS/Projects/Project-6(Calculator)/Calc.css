@@ -1,0 +1,32 @@
+body{
+	background-color: black ;
+	color: white;
+}
+.container{
+	display: flex; 
+	justify-content: center;
+}
+.btn{
+	width: 100px;
+	border-radius: 50px;
+	font-size: 30px;
+	border: 0px;
+}
+#text{
+	width: 500px;
+	height: 60px;
+	font-size: 50px;
+	border-radius: 50px;
+}
+#headingSC1{
+	width: 500px;
+}
+#headingSC2{
+	width: 700px;
+}
+#table1Div{
+	display: none;
+}
+#table2Div{
+	display: none ;
+}

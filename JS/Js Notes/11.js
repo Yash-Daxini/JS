@@ -1,0 +1,17 @@
+let a = window;
+alert('Hello');
+// console.log(a);
+prompt('Are you sure?');
+console.log(a);
+a = window.innerheight;
+console.log(a);
+a = window.innerWidht;
+console.log(a);
+a = scrollX;
+console.log(a);
+a = scrollY;
+console.log(a);
+a = location.toString();
+console.log(a);
+a = window.history;
+console.log(a);

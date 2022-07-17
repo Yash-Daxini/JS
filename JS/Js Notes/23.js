@@ -1,0 +1,15 @@
+let z = Math;
+z = Math.PI;
+z = Math.E;
+z = Math.round(3.546);
+z = Math.ceil(3.546);
+z = Math.floor(3.546);
+z = Math.abs(-3.5465);
+z = Math.sqrt(25);
+z = Math.pow(2,3);
+z =Math.min(5,10,15,20,15,2);
+z =Math.max(5,10,15,20,15,2);
+z =Math.random();
+z =100*Math.random();
+z =Math.ceil(50+(100-50)*Math.random());
+console.log(z);
